@@ -3,3 +3,4 @@
 3. "Talking cars" - cars that emits signal/signs to other cars if another car is getting too close to yours to prevent accidents
 4. Detector in car that monitors/senses if you are falling asleep and emits a loud warning to tell you to pull over
 5. Kinetic energy - wearable glove that gains energy when you wear it and you can charge your phone
+6. Windshield with night vision
