@@ -1,4 +1,5 @@
 Reading Three: _New Ways of Seeing_
+------------------------------------
 
 For the third "reading" of the semester, we will be continuing our conversation surrounding John Berger's _Ways of Seeing_ with James Bridle's _New Ways of Seeing_.
 
