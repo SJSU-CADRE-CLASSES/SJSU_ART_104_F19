@@ -91,3 +91,16 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_F19
 12. EyePhone https://www.youtube.com/watch?v=eJyMEkb_8to
 13. iPad Promo https://www.youtube.com/watch?v=YJ5q8Wrkbdw
 14. Minority Report https://www.youtube.com/watch?v=PJqbivkm0Ms
+
+9/25
+1. 2000 Presidential Election https://en.wikipedia.org/wiki/2000_United_States_presidential_election_in_Florida
+2. tDCS https://www.hopkinsmedicine.org/psychiatry/specialty_areas/brain_stimulation/tdcs.html
+3. Aimee Mullens https://www.youtube.com/watch?v=CEdhSpaiRUI
+3. James Figureine https://www.youtube.com/watch?v=EN1wLod8VKk
+4. Wayfinding https://segd.org/what-wayfinding
+5. Useless Design Objects http://www.bbc.com/future/gallery/20171207-the-objects-designed-to-be-as-uncomfortable-as-possible
+6. Cremaster Cycle https://www.theguardian.com/artanddesign/2015/jul/14/matthew-barney-cremaster-cycle-art-film
+7. Hugh Dubberly http://www.dubberly.com/concept-maps
+8. Cremaster Trailer https://www.youtube.com/watch?v=6xWtS9HsP4U
+9. Low Tech Magazine https://www.lowtechmagazine.com/
+10. Holly Herndon Eternal https://www.youtube.com/watch?v=r4sROgbaeOs
