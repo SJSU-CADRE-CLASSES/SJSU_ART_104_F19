@@ -1,1 +1,12 @@
 
+(This wasn't showing up because I'd posted it as a comment, so I'm editing it to be present now. I guess I couldn't find the edit button before somehow.)
+
+
+
+The Function of Dysfunction, Dore Bowen
+
+This article talks about how when you alter a piece of equipment it starts to have a different meaning and how that relates to art. I think this is pretty interesting and useful because you get to take something that already has a social context and a built in message and then build upon that to create an understandable but new and surprising work. The article deviates from there though and goes on at length about Fluxism and how they used a lot of alterations of existing equipment in their work. I'm familiar with several Flux works through ART 110, and I guess that is really what makes that whole movement really interesting. You observe their objects or performances and you expect something because that's how you've always seen a certain thing work, but they've changed it to become something completely different. It's a really good tool to be aware of and a point of inspiration, even if you're not making Flux style work.
+
+Here Be Dragons!: Bio-art beyond the edge of everything., Anne Farren and Andrew Hutchison
+
+This article talks about using things like cell cultures and fungi as an art form. I thought this was really interesting and surprising because usually when I think of new media I think of computers or very metal, digital, etc. sorts of things. Several of my classes have fixated upon the idea of modifying the human body, but it seems mostly in the context of adding inorganic upgrades. This is, instead, actually growing living art. They talk about a dress made of fungi and pigments that are living. It's kind of freaky, but really interesting. I don't think it's something I would ever want to do because I'm pretty squeamish, but it's really neat to look at from a distance. I remember in one of my classes, there was a guest speaker who talked about art she'd made using algae blooms, so I wonder if that fits with this too. It seems like the broader point of the article is how isolation brings out innovation, as the center for all of this is in a pretty remote area of Perth, Australia. I think that's in interesting idea to explore too, maybe being aware of how the people and ideas around us limit our innovation through convenience and finding ways to force ourselves into challenging situations in order to really get at those creative ideas.
