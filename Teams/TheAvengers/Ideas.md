@@ -1,3 +1,5 @@
+Marc Velayo, Charli Liu, Monica Munoz, Vanna Dao
+
 Three Ideas:
 
 1. Artifical Intelligence
