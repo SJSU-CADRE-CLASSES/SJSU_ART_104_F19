@@ -9,7 +9,7 @@
   <li>The Diagnosis Epidemic: Why do people identify most with a disorder they might or might not have?</li>
   <li>The Black and White of Career Change: Where is the gray area between specializations?</li>
   <li>Self-Redaction: The extreme of online privacy</li>
-  <li>Privacy</li>
+  <li>Privacy (This isea is not complete, lets discuss!)</li>
 </ul>
 
 <h2>Chosen Topic</h2>
