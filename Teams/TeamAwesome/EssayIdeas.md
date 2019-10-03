@@ -45,3 +45,8 @@
 	- Society constructing a rubric of rule based upon class, race, and gender
 	- Builds an environment based upon assumptions
 	- Can construct political/social/cultural disorder
+
+8) Exercise of Freedom
+	- Social media platforms used to express freedom 
+	- Political movements formed
+	- Video footage of oppressive forces displayed
