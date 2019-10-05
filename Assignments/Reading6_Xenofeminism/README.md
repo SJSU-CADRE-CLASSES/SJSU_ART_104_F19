@@ -1,4 +1,4 @@
-Reading Three: _XENOFEMINISM_
+Reading Six: _XENOFEMINISM_
 -----------------------------
 
 For the sixth reading of the semester, please read and respond to Laboria Cuboniks Xenofeminist manifesto. Consider the overall text and the assertions that the text raises. Can you think of bias built into technology? How are power structures reinforced through the technological status quo? Does the concept of feminism need to evolve? Is it an antiquated term or perspective in the context of present-day technological advancements and shifts in culture?
