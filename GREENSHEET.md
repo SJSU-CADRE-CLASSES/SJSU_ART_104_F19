@@ -79,9 +79,9 @@ Schedule
 | *Week 2* 08/28     | **Reading 1 Due** ** Presentation + Discussion ** **Reading 2: Ways of Seeing parts 1-4 https://www.youtube.com/watch?v=0pDE4VX_9Kk https://www.youtube.com/watch?v=m1GI8mNU5Sg https://www.youtube.com/watch?v=Z7wi8jd7aC4 https://www.youtube.com/watch?v=5jTUebm73IY** ** Introduction to HTML |
 | *Week 3* 09/04     | **Reading 2 Due** ** Presentation + Discussion ** **Reading 3: New Ways of Seeing https://www.bbc.co.uk/programmes/m0004sdb https://www.bbc.co.uk/programmes/m0004mc4 https://www.bbc.co.uk/programmes/m0004f3h https://www.bbc.co.uk/programmes/m000458l** Website Setup and Git Pipeline |
 | *Week 4* 09/11      | **Reading 3 Due** ** Presentation + Discussion ** **Reading 4: Julian Bleecker's Design Fiction https://drbfw5wfjlxon.cloudfront.net/writing/DesignFiction_WebEdition.pdf** ** HTML 2 |
-| *Week 5* 09/18      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: Assigned in Class** ** Forming SWITCH Groups and Begin Working on site design|
-| *Week 6* 09/25      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: Assigned in Class** ** Final Paper Requirements Posted to the Git. Students will present their ideas on 11/11 to the class. |
-| *Week 7* 10/02      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: Assigned in Class** ** Group Work Beginning Research For Final |
+| *Week 5* 09/18      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: Alice Rawthson: Why Good Design Matters http://andrewblanton.com/Rawsthorn.pdf** ** Forming SWITCH Groups and Begin Working on site design|
+| *Week 6* 09/25      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: XENOFEMINISM http://www.laboriacuboniks.net/** ** Final Paper Requirements Posted to the Git. Students will present their ideas on 11/11 to the class. |
+| *Week 7* 10/02      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: IDYRSELF http://idyrself.com/** ** Group Work Beginning Research For Final |
 | *Week 8* 10/09      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers **Students Should Have 8 to 10 sources identified for Bibliography**|
 | *Week 9* 10/16      | **Reading 8 Due to class Git** **Reading 9: posted** ** Research with team members on papers |
 | *Week 10* 10/23     | **Reading 9 Due to class Git** **Reading 10: posted** ** Research with team members on papers |
