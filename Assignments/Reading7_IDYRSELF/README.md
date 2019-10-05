@@ -1,3 +1,6 @@
+Reading Seven IDYRSELF
+----------------------
+
 For Reading seven this semester, please read IDYRSLF by Krystal South:
 
 http://idyrself.com/
