@@ -13,3 +13,7 @@ Hyper-text essay, HTML+CSS+JS site paired with a video essay
 https://news.mongabay.com/2014/06/discarded-cell-phones-to-help-fight-rainforest-poachers-loggers-in-real-time/ 
   </p>
   <p> Resourcing old techonology for social purposes </p>
+  <p>http://occupyhere.org/ 
+web.archive.org 
+openwrt.org
+</p>
