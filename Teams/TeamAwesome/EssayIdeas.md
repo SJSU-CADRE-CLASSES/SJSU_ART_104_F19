@@ -50,3 +50,28 @@
 	- Social media platforms used to express freedom 
 	- Political movements formed
 	- Video footage of oppressive forces displayed
+	
+-- 10/9/19 –
+
+Abstract
+
+
+Intro:
+•	Talking about the power of technology
+•	Evolution of protests
+•	Ask about what freedom really is? 
+
+Body:
+•	Examples of organizations and the impacts left by them
+•	Released footage of brutality/biasness/oppression
+•	Individual empowering oneself
+•	Issues with restrictions
+
+The Future:
+•	How much more will this technology evolve? Contributions to society
+•	Will rights/viewpoints change? Can we assemble a system/environment where people are treated equality?
+
+Outlets
+•	Social Media
+•	Surveillance 
+
