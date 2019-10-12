@@ -106,7 +106,7 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_F19
 10. Holly Herndon Eternal https://www.youtube.com/watch?v=r4sROgbaeOs
 
 10/2
-*powerout*
+*no internet*
 
 10/9
 1. Max Cooper Order from Chaos https://vimeo.com/196269431
