@@ -104,3 +104,21 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_F19
 8. Cremaster Trailer https://www.youtube.com/watch?v=6xWtS9HsP4U
 9. Low Tech Magazine https://www.lowtechmagazine.com/
 10. Holly Herndon Eternal https://www.youtube.com/watch?v=r4sROgbaeOs
+
+10/2
+*powerout*
+
+10/9
+1. Max Cooper Order from Chaos https://vimeo.com/196269431
+2. Laturbo Avedon https://turboavedon.com/
+3. Jaron Lanier https://www.cnbc.com/2018/08/31/jaron-lanier-tech-needs-to-clear-the-trash-out-of-the-internet.html
+4. Jon Satrom https://vimeo.com/3763089
+5. MakeNoise System Cartesian http://www.makenoisemusic.com/synthesizers/system-cartesian
+5. Panther Modern http://panthermodern.org/roomnine.html
+6. Occupy Here https://hyperallergic.com/54540/dan-phiffers-occupy-here-rhizome-grant/
+7. Nick Briz Thoughts on Glitch Art http://nickbriz.com/thoughtsonglitchart/
+8. Digital Shadow https://myshadow.org/animation
+9. OpenWRT https://openwrt.org/
+10. Krist Wood sadf http://sadf.kristwood.com/
+11. Oakland Mesh Network https://peoplesopen.net/
+12. Netflix Abstract https://www.youtube.com/watch?v=DYaq2sWTWAA
