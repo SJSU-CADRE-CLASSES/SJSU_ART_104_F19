@@ -18,7 +18,7 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_F19
 
 Course Description
 ------------------
-This semesters Interdisciplinary Seminar in Digital Media will work toward bringing SWITCH back online. Through a combination of lectures, presentations, and research, this class will explore old SWITCH articles and rebuild the web platform for a new distribution of SWITCH journal.  The core premise of the class will address individual and collaborative writing exercises, seeking to critically understand cultural normative assumptions about modernity and the use of technology while considering multiple alternatives to the current technological status quo. These assignments will build into the first issue of the re-launch of SWITCH.
+This semesters Interdisciplinary Seminar in Digital Media will work toward bringing [SWITCH](http://switch.sjsu.edu) back online. Through a combination of lectures, presentations, and research, this class will explore the old [SWITCH archives](http://switch.sjsu.edu/archive/archives/index.htmland) rebuild the web platform for a new distribution of [SWITCH journal](http://switch.sjsu.edu).  The core premise of the class will address individual and collaborative writing exercises, seeking to critically understand cultural normative assumptions about modernity and the use of technology while considering multiple alternatives to the current technological status quo. These assignments will build into the third issue of the re-launch of [SWITCH](http://switch.sjsu.edu).
 
 Learning Outcomes
 -----------------
