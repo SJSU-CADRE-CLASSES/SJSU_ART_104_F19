@@ -82,7 +82,7 @@ Schedule
 | *Week 5* 09/18      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: Alice Rawthson: Why Good Design Matters http://andrewblanton.com/Rawsthorn.pdf** ** Forming SWITCH Groups and Begin Working on site design|
 | *Week 6* 09/25      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: XENOFEMINISM http://www.laboriacuboniks.net/** ** Final Paper Requirements Posted to the Git. Students will present their ideas on 11/11 to the class. |
 | *Week 7* 10/02      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: IDYRSELF http://idyrself.com/** ** Group Work Beginning Research For Final |
-| *Week 8* 10/09      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers **Students Should Have 8 to 10 sources identified for Bibliography**|
+| *Week 8* 10/09      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: Pretend to Be a Bot, Rehumanize the Web https://schloss-post.com/pretend-bot-rehumanize-web/** ** Research and in class work on papers **Students Should Have 8 to 10 sources identified for Bibliography**|
 | *Week 9* 10/16      | **Reading 8 Due to class Git** **Reading 9: posted** ** Research with team members on papers |
 | *Week 10* 10/23     | **Reading 9 Due to class Git** **Reading 10: posted** ** Research with team members on papers |
 | *Week 11* 10/30     | ** Presentation + Discussion ** **No Reading Assigned for Next week: First Draft of Final Due** ** Research and in class work on papers |
