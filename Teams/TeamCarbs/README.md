@@ -2,6 +2,7 @@
 <h3>Team Members: Sabrina Kwong, Lauren Chun, Jordan Hoekwater, & Derrick Saenz</h3>
 
 <h2>Topic: Technological Reappropriation</h2>
+<h1> Electronical Disturbance </h1>
 
 <h2>Prototype</h2>
 <p>
