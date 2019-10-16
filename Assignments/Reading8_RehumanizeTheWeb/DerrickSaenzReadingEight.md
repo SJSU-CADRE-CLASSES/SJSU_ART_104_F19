@@ -1,1 +1,6 @@
-
+<h1>Reading Eight: Rehumanize the Web</h1>
+<p>
+  The sharing economy idea interests me the most because as someone trying to make money in the art field, freelance seems to be the first jumping off point to actually get started. At first, you don't think oyu have enough experience to get a job anywhere, but you need the experience and internships aren't an option sometimes. So the first thing you do is try to make money through freelance. Whether you know someone making a business or you need to brand yourself or something, you need to find money where it is. One of the alluring options is through sites that promise to connect you, the artist, to a potential client. Sites like "Fiverr" and "Upwork" make money off of people who are trying to make money without any connections, and it is so expensive that sometimes it doesn't work.<br><br>
+  In my own experience, I have tryied using Upwork, a freelancer site where it connects you to clients, but I did not like how the website worked for myself. For one, a lot of the clients that show up before you complete your first contract are a lot of clients that have unverfied payment methods, making it easier for them scam you. <br><br>
+  I don't like to involve myself with the "scratch my back i scratch yours" economy, because it makes everything extremely unorfficial and unregulated, and therefore you as an artist are unprotected. 
+</p>
