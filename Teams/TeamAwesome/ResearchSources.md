@@ -1,4 +1,17 @@
 -- Andrew -- 
+1.https://search.proquest.com/docview/1826809256?accountid=10361&rfr_id=info%3Axri%2Fsid%3Aprimo
+
+
+2.https://www.sciencedirect.com/science/article/pii/S0363811115001101
+
+
+3.https://na03.alma.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=31321744580002901&institutionId=2901&customerId=2900
+
+
+4.https://search.proquest.com/docview/1115117069/fulltext/3C0EF1D0D40C407APQ/1?accountid=10361
+
+
+5.https://journals.sagepub.com/doi/full/10.1177/1461444817706073
 
 
 -- Mateo --
