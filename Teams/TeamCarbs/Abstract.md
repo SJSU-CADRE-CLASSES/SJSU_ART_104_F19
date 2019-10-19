@@ -8,4 +8,4 @@ The power of technology and the people are seen in many activism and hacktivism 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This paper will further examine existing usages of technology and art pieces that involve mobile locative media, hacktivism ( a method of engagement that uses hacking to break, reformat, and re-engineer data and systems as a creative rather than merely destructive strategy<sup>1</sup>), the use of affordable software, hardware and the internet in addressing issues and making change.
 
 
-[^1]:Christine Paul, Digital Art, Third Edition, p.207
+<sup>1</sup>Christine Paul, Digital Art, Third Edition, p.207
