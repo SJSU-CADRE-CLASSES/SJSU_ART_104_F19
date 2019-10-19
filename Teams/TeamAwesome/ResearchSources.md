@@ -1,18 +1,27 @@
 -- Andrew -- 
 
-1.https://search.proquest.com/docview/1826809256?accountid=10361&rfr_id=info%3Axri%2Fsid%3Aprimo
+  1.  https://search.proquest.com/docview/1826809256?accountid=10361&rfr_id=info%3Axri%2Fsid%3Aprimo
+
+This article goes over the access of knowledge within the internet and how as a society we depend on that source. It then goes into argument of our restriction of knowledge and discusses the negative effects it impacts on us. Internet freedom then becomes a space of question of altering a person’s perspective on political or social means.
+
+  2.  https://www.sciencedirect.com/science/article/pii/S0363811115001101
+
+This essay is a research on a psychological level on a person’s level of empowerment with using social media as a source. The access of knowledge to do many things in social media gives a lot of power to people as well as the security behind the screen. This source is to give us an insight on how that power affects user and who controls that power the most.
+
+  3.  https://na03.alma.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=31321744580002901&institutionId=2901&customerId=2900
+
+This article goes over a social media project exhibition of female photographers to show their existence. They do this by dressing up as professions that are usually male-dominated and use social media as a platform to raise questions on social media advocacy.
 
 
-2.https://www.sciencedirect.com/science/article/pii/S0363811115001101
+  4.  https://search.proquest.com/docview/1115117069/fulltext/3C0EF1D0D40C407APQ/1?accountid=10361
+
+This passage explores the space of social media and the future of it. Data becomes an essential topic point of this passage which ultimately alters a person's feed and controls what they see, hence the restriction and limitation of knowledge. Social bubbles, not ripples. 
 
 
-3.https://na03.alma.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=31321744580002901&institutionId=2901&customerId=2900
+  5.  https://journals.sagepub.com/doi/full/10.1177/1461444817706073
 
+This journal entry looks into the social engagement properties of technology of uses in multiple platform for work, personal usage, or surveillance. To give a deep dive and research into algorithms searching for people to be filtered out for employment.
 
-4.https://search.proquest.com/docview/1115117069/fulltext/3C0EF1D0D40C407APQ/1?accountid=10361
-
-
-5.https://journals.sagepub.com/doi/full/10.1177/1461444817706073
 
 
 -- Mateo --
