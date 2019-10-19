@@ -5,6 +5,8 @@ Electronic Civil Disobedience: and Other Unpopular Ideas. New York: Autonomedia,
 
 Lievrouw, Leah A. Alternative and Activist New Media. Digital Media and Society Series. Cambridge, UK ; Malden, MA: Polity, 2011.
 
+McCarthy, Joe. “Here's What Happens When You Recycle Your Old Cellphone.” Global Citizen. Global Poverty Project, Inc, June 18, 2018. https://www.globalcitizen.org/en/content/recycle-cellphones-ewaste-what-happens/.
+
 Nunez, Christina. “Your Old Cell Phone Can Help Save the Rainforest.” National Geographic. National Geographic, June 23, 2017. https://www.nationalgeographic.com/news/2017/06/topher-white-engineer-rainforests-explorer-festival/.
 
 Paul, Christiane. Digital Art. London: Thames & Hudson, 2003.
