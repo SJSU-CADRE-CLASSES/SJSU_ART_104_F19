@@ -1,3 +1,4 @@
+---
 title: "Test"
 author: "Author Name"
 header-includes:
@@ -7,3 +8,4 @@ header-includes:
 - \fancyfoot[CO,CE]{And this is a fancy footer}
 - \fancyfoot[LE,RO]{\thepage}
 output: pdf_document
+---
