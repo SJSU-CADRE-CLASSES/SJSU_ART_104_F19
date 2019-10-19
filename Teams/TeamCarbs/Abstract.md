@@ -6,3 +6,6 @@ poems, compass, maps in Spanish with the purpose to help those crossing the bord
 The power of technology and the people are seen in many activism and hacktivism that incorporates tactical media and the world wide web.  People can now engage in digital civil disobedience to be able to not only raise awareness but show their support for causes unknown or far from them. With a deeper understanding of how we should  take that power back would be seen in this paper. As well as the question to whether we have we taken the power back in the past and how much more we can and could take though our usages of technology.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This paper will further examine existing usages of technology and art pieces that involve mobile locative media, hacktivism ( a method of engagement that uses hacking to break, reformat, and re-engineer data and systems as a creative rather than merely destructive strategy<sup>1</sup>), the use of affordable software, hardware and the internet in addressing issues and making change.
+
+
+[^1]Christine Paul, Digital Art, Third Edition, p.207
