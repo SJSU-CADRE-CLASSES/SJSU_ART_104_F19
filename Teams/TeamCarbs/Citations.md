@@ -1,9 +1,9 @@
 Bibliography:
-Electronic Civil Disobedience: and Other Unpopular Ideas. New York: Autonomedia, 2003. https://monoskop.org/images/d/df/Critical_Art_Ensemble_Electronic_Civil_Disobedience_and_Other_Unpopular_Ideas.pdf.
+Electronic Civil Disobedience: and Other Unpopular Ideas. New York: Autonomedia, 2003. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsphttps://monoskop.org/images/d/df/Critical_Art_Ensemble_Electronic_Civil_Disobedience_and_Other_Unpopular_Ideas.pdf.
 
-Lievrouw, Leah A. Alternative and Activist New Media. Digital Media and Society Series. Cambridge, UK ; Malden, MA: Polity, 2011.
+Lievrouw, Leah A. Alternative and Activist New Media. Digital Media and Society Series. Cambridge, UK ; Malden, MA: Polity, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp2011.
 
-Nunez, Christina. “Your Old Cell Phone Can Help Save the Rainforest.” National Geographic. National Geographic, June 23, 2017. https://www.nationalgeographic.com/news/2017/06/topher-white-engineer-rainforests-explorer-festival/.
+Nunez, Christina. “Your Old Cell Phone Can Help Save the Rainforest.” National Geographic. National Geographic, June 23, 2017. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsphttps://www.nationalgeographic.com/news/2017/06/topher-white-engineer-rainforests-explorer-festival/.
 
 Paul, Christiane. Digital Art. London: Thames & Hudson, 2003.
 
