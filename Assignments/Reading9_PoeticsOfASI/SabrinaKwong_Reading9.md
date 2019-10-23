@@ -1,6 +1,6 @@
-
+<h3>
 Poetics of ASI response
-
+</h3>
 
 First, I really appreciate this article and its efforts in using a language of humanity that contains beauty and artistry- poetry. I also agree that metaphors brings one closer to the topic at hand in relationship to what we already know, to keep the language, ideas and thoughts more acesiibe in to the human mind. Nora N. Khan wrote the ideas of the work of philosopher Nick Bostrom (ideas from his book- Superintelligence: Paths, Dangers, Strategies.) in  a way that makes sense to someone who may not entirely understand the power of Artificial Superintelligence (ASI) and what it can really do. Her comparison of understanding aliens to ASI really puts such how we create language to understand more of the unknown, higher power, something intangible.
 
