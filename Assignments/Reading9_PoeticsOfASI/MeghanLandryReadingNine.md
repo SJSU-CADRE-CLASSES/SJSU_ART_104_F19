@@ -1,0 +1,9 @@
+I think AI is a pretty interesting topic, and I like thinking about how far it will get within the window of my lifetime. If the exponential rate at which technology advances is fast enough to make a chunk of code sentient  within the next 50 or so years. 
+
+I like that the author is trying to reframe how we think about the AI of the future. It's true that we anthropomorphize AI in a lot of popular media. He quotes a guy saying that's boring, but I disagree. I think in the context of storytelling, giving AI human elements makes for a much more interesting and understandable story. That's fiction though, and it's fine if people understand it's fiction. In the real world, I imagine AI probably will develop much like he says, not as an inherently malicious, vengeful entity or like a curious child or a clever, manipulative schemer, but instead as a natural disaster like a hurricane. 
+
+Even then, I wonder if maybe he could be wrong. If we can create a super intelligence that can do all these things, why couldn't we also give it morality and ethics as a set of rules in its development? I think it's unlikely, especially since war will likely be a big driver of its development, but it's something to think about.
+
+ I think corporate control of AI development is particularly frightening because we've seen disasters happen time and time again just to cut a few dollars or to meet a deadline. We already have a world ending scenario playing out because of corporate greed in the form of climate change. I kind of wonder if this conversation will even ever be relevant if we make our planet uninhabitable before it even develops. 
+
+The different types of potential AI that he  describes are interesting too. It's informative to have some of the different ways that things could realistically develop and their possible outcomes spelled out that way. It's also possible that things could develop in a way that we can't really predict.
