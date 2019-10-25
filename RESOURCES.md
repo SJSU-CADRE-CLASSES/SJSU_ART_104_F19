@@ -122,3 +122,36 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_F19
 10. Krist Wood sadf http://sadf.kristwood.com/
 11. Oakland Mesh Network https://peoplesopen.net/
 12. Netflix Abstract https://www.youtube.com/watch?v=DYaq2sWTWAA
+
+10/16
+
+1. New Materialism https://criticalposthumanism.net/new-materialisms/
+2. Hacker News https://news.ycombinator.com/
+3. Rhizome, Salutations Fellow Kids https://rhizome.org/editorial/2019/oct/04/salutations-fellow-kids/
+4. AirPod Teardown https://www.ifixit.com/Teardown/AirPods+Teardown/75578
+5. Anxious to Make https://anxioustomake.ga/
+6. ycombinator incubator https://www.ycombinator.com/
+7. EarPod Teardown https://www.ifixit.com/Teardown/Apple+EarPods+Teardown/10501
+8. V2 Institute https://v2.nl/
+9. Entrepercariat https://networkcultures.org/entreprecariat/
+10. Fiver https://www.fiverr.com/
+11. Circuit board recycling https://www.theguardian.com/sustainable-business/new-adhesive-circuit-boards-recycle
+12. Make Noise http://www.makenoisemusic.com/synthesizers/system-cartesian
+
+10/23
+1. Open Frameworks https://openframeworks.cc/
+2. Cinder https://libcinder.org/
+3. Cinder Demo Reel https://vimeo.com/66869296
+4. Syphon http://syphon.v002.info/
+5. Rhizome Opportunities https://rhizome.org/community/opportunities/
+6. College Art Association https://www.collegeart.org/
+7. ISEA http://www.isea-web.org/2019/09/call-for-participation-for-isea2020-open/
+8. Touch Designer https://derivative.ca/
+9. Putting the Pieces Back Together https://vimeo.com/298370406
+10. Centre Pompidue https://www.centrepompidou.fr/en
+11. Conway's Game of Life https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+12. Alan Turing https://en.wikipedia.org/wiki/Alan_Turing
+13. Cycling74 https://cycling74.com/
+14. Christian Marclay, The Clock https://vimeo.com/27801200
+
+*Door Image Call:* https://docs.google.com/forms/d/e/1FAIpQLSd81ZVJ2gr-zujkTT4nwZYuQ3EjknKoidaz_PjvBGfZpweqIw/viewform
