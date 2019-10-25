@@ -3,9 +3,13 @@ I’m surprised by myself that I finished reading the entire article, I never th
 I also like that the artist uses John Clees’s Factors for Creativity:
 
 Space
+
 Time
+
 Time
+
 Confidence
+
 Humor
 
 With such a chaotic world we are living in and everything going on around us, it’s hard to find inner peace. Sometimes we are mistaken that creativity requires a lot of interactions with the society / community, which is somewhat true, but not always. The true inspiration always comes when we are at the most peaceful stage of ourselves, and ourselves are our own muses. We should simply let our thoughts flow, whether or not they seem make-sense at the moment. We should accept everything happening in our heads, whatever they are.
