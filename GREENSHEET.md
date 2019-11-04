@@ -84,11 +84,10 @@ Schedule
 | *Week 7* 10/02      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: IDYRSELF http://idyrself.com/** ** Group Work Beginning Research For Final |
 | *Week 8* 10/09      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: Pretend to Be a Bot, Rehumanize the Web https://schloss-post.com/pretend-bot-rehumanize-web/** ** Research and in class work on papers **Students Should Have 8 to 10 sources identified for Bibliography**|
 | *Week 9* 10/16      | **Reading 8 Due to class Git** **Reading 9: https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249** ** Research with team members on papers |
-| *Week 10* 10/23     | **Reading 9 Due to class Git** **Reading 10: posted** ** Research with team members on papers |
+| *Week 10* 10/23     | **Reading 9 Due to class Git** **Reading 10: https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb** ** Research with team members on papers |
 | *Week 11* 10/30     | ** Presentation + Discussion ** **No Reading Assigned for Next week: First Draft of Final Due** ** Research and in class work on papers |
+| *Week 12* 11/04     | ATC 9-12:30 MLK 225 |
 | *Week 12* 11/06     | **First Draft of Final Papers Due** ** Presentation + Discussion ** **Reading 11: assigned in class** ** Research and in class work on papers ****|
-| *Week 13* 11/11     | ATC 9-12:30 MLK 225 |
-| *Week 13* 11/12     | ATC 9-12:30 MLK 225 |
 | *Week 13* 11/20     | ** Presentation + Discussion ** **Reading 11: assigned in class** ** Research and in class work on papers |
 | *Week 13* 11/27     | THANKSGIVING :D |
 | *Week 14* 12/04     | **Reading 9 Extra Credit Due** Research and in class work on papers |
