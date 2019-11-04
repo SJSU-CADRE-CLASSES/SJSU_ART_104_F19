@@ -91,9 +91,8 @@ Schedule
 | *Week 13* 11/13     | **Reading 11 Due** Presentation + Discussion ** **Reading 12: assigned in class** ** Research and in class work on papers |
 | *Week 14* 11/20     | **Reading 12 Due** Presentation + Discussion ** **Reading 13 Extra Credit: assigned in class** ** Research and in class work on papers |
 | *Week 15* 11/27     | THANKSGIVING :D |
-| *Week 16* 12/04     | **Reading 13 Extra Credit Due** Research and in class work on papers |
-| *Week 17* 05/07     | Final presentations ** Final 7-page paper due no later than Sunday, December 17th The final paper and project format will be assigned in class on Wednesday, November 4th and available online in PDF format |
-| *Final* 5/21 @ 5:15 | Final Released |
+| *Week 16* 12/04     | **Final presentations** Final 7-page paper due no later than Sunday, December 14th **Reading 13 Extra Credit Due** |
+| *Final* 12/15       | Final Released |
 |                  |  |
 
 **University Policies**
