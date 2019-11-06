@@ -13,7 +13,9 @@ It used to be simple to fake an identity over the Internet and act like you were
 
 There is so much we allow our smartphones to do. Upon installing apps like Instagram or Facebook, a permission window appears that requests access to our location, photos, and microphone amongst other things, and we are not given much of a choice if we want to use the app. This is one example, and then there is the smartphone messaging feature—predictive text. Some choose to leave this feature on and let it gather information about us as we type away, such as the words and phrases we often use. By doing so, predictive text becomes more personal, as if building an AI based on the user themselves.
 In an interview, Sebastian Schmieg mentioned Ray Kurzweil, who wanted to bring his father back to life. According to Schmieg, “He has archived all of his father’s notes and letters, and they are supposed to form the basis for a reanimation based on AI.” Schmieg took that idea and created a server based on Kurzweil himself, using all the books he had written. In leaving predictive text on, we are almost becoming one with our devices.  
-Sources:
+
+Our integration with technology does not stop there. Self-driving cars are gradually becoming more real. Already, there is a “Navigate on Autopilot” feature in Tesla vehicles that allows a person to set a route, as long as it’s entirely through a highway, and leave the driving to the car. According to Sissi Cao, from The Observer, “Currently, Tesla is trying to enhance this system and make it work for complicated city roads.” Tesla’s director of artificial intelligence, Andrej Karpathy, explained that this would require more computing power than their neural network system could handle. Even then, they are working to make this possible, and we will soon hand over some control to yet another machine. 
+
 
 Sources:
 Isaac Asimov was asked by the Star to predict the world of 2019. Here is what he wrote
