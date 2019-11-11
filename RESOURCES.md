@@ -56,6 +56,8 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_F19
 12. How and why to leave facebook https://www.youtube.com/watch?v=JEeR9jUsiyo
 
 9/11
+-------
+
 1. Wood Wide Web https://www.newyorker.com/tech/annals-of-technology/the-secrets-of-the-wood-wide-web
 2. Julian Oliver https://julianoliver.com/output/
 3. terra0.org https://terra0.org/
@@ -93,6 +95,8 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_F19
 14. Minority Report https://www.youtube.com/watch?v=PJqbivkm0Ms
 
 9/25
+-----
+
 1. 2000 Presidential Election https://en.wikipedia.org/wiki/2000_United_States_presidential_election_in_Florida
 2. tDCS https://www.hopkinsmedicine.org/psychiatry/specialty_areas/brain_stimulation/tdcs.html
 3. Aimee Mullens https://www.youtube.com/watch?v=CEdhSpaiRUI
@@ -106,9 +110,13 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_F19
 10. Holly Herndon Eternal https://www.youtube.com/watch?v=r4sROgbaeOs
 
 10/2
+----
+
 *no internet*
 
 10/9
+--------
+
 1. Max Cooper Order from Chaos https://vimeo.com/196269431
 2. Laturbo Avedon https://turboavedon.com/
 3. Jaron Lanier https://www.cnbc.com/2018/08/31/jaron-lanier-tech-needs-to-clear-the-trash-out-of-the-internet.html
@@ -124,6 +132,7 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_F19
 12. Netflix Abstract https://www.youtube.com/watch?v=DYaq2sWTWAA
 
 10/16
+------
 
 1. New Materialism https://criticalposthumanism.net/new-materialisms/
 2. Hacker News https://news.ycombinator.com/
@@ -139,6 +148,8 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_F19
 12. Make Noise http://www.makenoisemusic.com/synthesizers/system-cartesian
 
 10/23
+-------
+
 1. Open Frameworks https://openframeworks.cc/
 2. Cinder https://libcinder.org/
 3. Cinder Demo Reel https://vimeo.com/66869296
@@ -155,3 +166,24 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_F19
 14. Christian Marclay, The Clock https://vimeo.com/27801200
 
 *Door Image Call:* https://docs.google.com/forms/d/e/1FAIpQLSd81ZVJ2gr-zujkTT4nwZYuQ3EjknKoidaz_PjvBGfZpweqIw/viewform
+
+10/30
+-------
+1. productivity chart https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Ftimworstall%2Ffiles%2F2016%2F10%2Fwagescompensation-1200x1093.jpg
+2. Ray Kurzweil https://en.wikipedia.org/wiki/Ray_Kurzweil
+3. Reboot Float https://www.rebootfloatspa.com/floating
+4. Phenomenology https://plato.stanford.edu/entries/phenomenology/
+5. Jenny Odell talk at eyeo https://www.youtube.com/watch?v=mNRqswoCVcM
+6. The Commons https://en.wikipedia.org/wiki/Commons
+7. Hotline Bling https://www.youtube.com/watch?v=uxpDa-c-4Mc
+8. Singularity https://en.wikipedia.org/wiki/Technological_singularity
+9. This is Alive http://thisisalive.com/
+10. james Turrell http://jamesturrell.com/
+11. Tactical Tech https://tacticaltech.org/#/projects/the-glass-room
+12. SF Glass Room https://theglassroom.org/san-francisco/exhibits
+13. iFarm https://www.youtube.com/watch?v=JsGPwjEIeio
+
+11/6
+-----
+
+1. Cyanovisions https://vimeo.com/302527393
