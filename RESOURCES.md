@@ -187,3 +187,7 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_F19
 -----
 
 1. Cyanovisions https://vimeo.com/302527393
+2. phonebloks https://phonebloks.com/
+3. Monsanto Destroying Farming https://www.globalresearch.ca/the-seeds-of-suicide-how-monsanto-destroys-farming/5329947
+4. Jaron Lanier http://www.jaronlanier.com/
+5. Terraced Agriculture https://www.thesolutionsjournal.com/article/terraced-agriculture-a-step-in-the-right-direction/
