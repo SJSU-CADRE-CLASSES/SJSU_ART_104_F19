@@ -4,7 +4,7 @@ Isn't hiding whistleblowers against a more just society?
 This article, cross of techonology and politics and looks at the changing of our governemental systems and culture. Privatizaion o f public discourse for private profit.The flip side of the movements online that can become negative.
 Warfare of resource contraint and politics on the internet. 
 
-Then it goes into a partifular set of actions done by Christopher Wylie that changed politics through the net. 
+Then it goes into a partifular set of actions done by Christopher Wylie that changed politics through the net. More than that, this big think had a conversation of the information exchanged to our daily lives and the different agendas given through media. 
 
 Hackers are able to influence politics by building modern defenses online. Listening to how Wylie was able to do all of this was mind-boggilin.
 What modern ways to influence great masses at once? Social media and many social websites where one can post, write, share, comment, and continue all the day.
