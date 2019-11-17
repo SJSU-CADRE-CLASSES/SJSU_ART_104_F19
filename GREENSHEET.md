@@ -87,9 +87,9 @@ Schedule
 | *Week 10* 10/23     | **Reading 9 Due to class Git** **Reading 10: https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb** ** Research with team members on papers |
 | *Week 11* 10/30     | ** Presentation + Discussion ** **No Reading Assigned for Next week: First Draft of Final Due** ** Research and in class work on papers |
 | *Week 12* 11/04     | ATC 9-12:30 MLK 225 |
-| *Week 12* 11/06     | **First Draft of Final Papers Due** ** Presentation + Discussion ** **Reading 11: assigned in class** ** Research and in class work on papers ****|
-| *Week 13* 11/13     | **Reading 11 Due** Presentation + Discussion ** **Reading 12: assigned in class** ** Research and in class work on papers |
-| *Week 14* 11/20     | **Reading 12 Due** Presentation + Discussion ** **Reading 13 Extra Credit: assigned in class** ** Research and in class work on papers |
+| *Week 12* 11/06     | **First Draft of Final Papers Due** ** Presentation + Discussion ** **Reading 11: https://bigthink.com/podcast/cambridge-analytica** ** Research and in class work on papers ****|
+| *Week 13* 11/13     | **Reading 11 Due** Presentation + Discussion ** **Reading 12: Extra Credit https://sjsu.kanopy.com/video/manufacturing-consent** ** Research and in class work on papers |
+| *Week 14* 11/20     | **Initial Website Draft Due** **Reading 12 Extra Credit Due** Presentation + Discussion **Reading 13: assigned in class** ** Research and in class work on papers |
 | *Week 15* 11/27     | THANKSGIVING :D |
 | *Week 16* 12/04     | **Final presentations** Final 7-page paper due no later than Sunday, December 14th **Reading 13 Extra Credit Due** |
 | *Final* 12/15       | Final Released |
