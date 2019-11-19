@@ -191,3 +191,17 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_F19
 3. Monsanto Destroying Farming https://www.globalresearch.ca/the-seeds-of-suicide-how-monsanto-destroys-farming/5329947
 4. Jaron Lanier http://www.jaronlanier.com/
 5. Terraced Agriculture https://www.thesolutionsjournal.com/article/terraced-agriculture-a-step-in-the-right-direction/
+
+11/13
+-------
+
+1. Recombinant Festival http://recombinantfestival.com/2019/
+2. US Eduactional Attainment https://en.wikipedia.org/wiki/Educational_attainment_in_the_United_States
+3. Skeleton web framework http://getskeleton.com/#examples
+4. Butterfly effect (Jurassic Park) https://www.youtube.com/watch?v=5cVLUPwrSmU
+5. Cybernetics https://en.wikipedia.org/wiki/Cybernetics
+6. Disrupt https://vimeo.com/153666112
+7. Foundation web framework https://foundation.zurb.com/sites.html
+8. W3Schools Web Templates https://www.w3schools.com/w3css/w3css_templates.asp
+9. Gray Area https://grayarea.org/about/mission/
+10. Ashley Maddison Hack https://www.google.com/search?q=ashley+madison+hack&sxsrf=ACYBGNRj-TYjB8tAe_z_YVAwTNMwOsfoEQ:1573689765434&source=lnms&tbm=isch&sa=X&ved=0ahUKEwju-tGbs-jlAhUWJjQIHRB6BosQ_AUIFCgD&biw=1305&bih=625&dpr=2#imgrc=h1xg9-_TFcAcuM:
