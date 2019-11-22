@@ -205,3 +205,20 @@ Class Website: https://github.com/ablanton/SJSU_ART_104_F19
 8. W3Schools Web Templates https://www.w3schools.com/w3css/w3css_templates.asp
 9. Gray Area https://grayarea.org/about/mission/
 10. Ashley Maddison Hack https://www.google.com/search?q=ashley+madison+hack&sxsrf=ACYBGNRj-TYjB8tAe_z_YVAwTNMwOsfoEQ:1573689765434&source=lnms&tbm=isch&sa=X&ved=0ahUKEwju-tGbs-jlAhUWJjQIHRB6BosQ_AUIFCgD&biw=1305&bih=625&dpr=2#imgrc=h1xg9-_TFcAcuM:
+
+11/20
+------
+1. Class Staging Site https://ablanton.github.io/104F19.github.io/
+2. jcolleran_O+SH https://vimeo.com/243823920
+3. Jonathan Monaghan Pod https://www.youtube.com/watch?v=x65GdFyhAmw
+4. Goodbye Uncanny Valley https://vimeo.com/237568588
+5. ieee https://www.ieee.org/
+6. Global Voices Online https://globalvoices.org/about/
+7. ACM SIGGRAPH https://www.siggraph.org/
+8. Intellectual Self Defense http://openpolitics.ca/Intellectual+Self-Defense+by+Noam+Chomsky?page=Intellectual+Self-Defense+by+Noam+Chomsky
+9. Democracy Now https://www.democracynow.org/
+10. Bitforms Gallery https://bitforms.art/artists
+11. Pixar - Luxo Jr. https://www.youtube.com/watch?v=D4NPQ8mfKU0
+12. Newscasters Agree https://www.youtube.com/watch?v=ksb3KD6DfSI
+13. The Shed NY https://theshed.org/program/63-manual-override?gclid=EAIaIQobChMIkKuW7Jzq5QIVUIFaBR3l2wMpEAAYASAAEgIxg_D_BwE&sourceNumber=1334
+14. Lynn Hershman-Leeson https://www.vogue.com/article/manual-override-lynn-hershman-leeson-review
