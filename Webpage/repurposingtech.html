@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>Switch Article ##</title>
+<title>Switch Article - Repurposing Tech</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -9,11 +9,12 @@
 body, html {
   height: 100%;
   font-family: "Inconsolata", sans-serif;
+  scroll-behavior: smooth;
 }
 .bgimg {
   background-position: center;
   background-size: cover;
-  background-image: url("img/tech.jpeg");
+  background-image: url(img/tech.jpeg);
   min-height: 75%;
 }
 .article {
@@ -22,26 +23,64 @@ body, html {
 .col-5 {
   width: 20%;	
 }
+.col-6 {
+  width: 14.28%;	
+}
+.subscript {
+	font-size: 15px;
+	position: relative;
+	top: -6px;
+}
+.subscript a {
+	text-decoration: none;
+	color: rgba(114,157,182,1.00);
+	transition: .8s;
+}
+.subscript a:hover {
+	color: rgba(65,90,112,1.00);
+}
+.subscriptLinks {
+	padding-left: 10px;	
+}
+.subscriptLinks .subscript a{
+	margin-right: 7px;
+	font-size: 10px;
+}
+.subscriptLinks p{
+	font-size: 15px;
+}
+hr {
+	margin-left: 10px;
+	width:35%;
+	border-color: black;
+}
 </style>
 <body>
 
 <!-- Links (sit on top) -->
-<div class="w3-top">
+<div class="w3-top" id="top">
+<a href="javascript:void(0);" onclick="openArticle(event, 'Abstract');" id="myLink"></a>
   <div class="w3-row w3-padding w3-black">
-    <div class="w3-col col-5">
-      <a href="javascript:void(0)" onclick="openArticle(event, 'Abstract');" id="myLink" class="w3-button w3-block w3-black tablink">Abstract</a>
+	<div class="w3-col col-6">
+      <a href="https://ablanton.github.io/104F19.github.io/" class="w3-button w3-block w3-black tablink">Back</a>
     </div>
-    <div class="w3-col col-5">
-      <a href="javascript:void(0)" onclick="openArticle(event, 'Recontextualizing');" class="w3-button w3-block w3-black tablink">Recontextualizing</a>
+    <div class="w3-col col-6">
+      <a href="#articleTop" onclick="openArticle(event, 'Abstract');" class="w3-button w3-block w3-black tablink">Abstract</a>
+    </div>
+    <div class="w3-col col-6">
+      <a href="#articleTop" onclick="openArticle(event, 'Recontextualizing');" class="w3-button w3-block w3-black tablink">Recontextualizing</a>
 	  </div>
-    <div class="w3-col col-5">
-      <a href="javascript:void(0)" onclick="openArticle(event, 'Disobedience');" class="w3-button w3-block w3-black tablink">Disobedience</a>
+    <div class="w3-col col-6">
+      <a href="#articleTop" onclick="openArticle(event, 'Disobedience');" class="w3-button w3-block w3-black tablink">Disobedience</a>
     </div>
-    <div class="w3-col col-5">
-      <a href="javascript:void(0)" onclick="openArticle(event, 'Artivism');" class="w3-button w3-block w3-black tablink">Artivism</a>
+    <div class="w3-col col-6">
+      <a href="#articleTop" onclick="openArticle(event, 'Artivism');" class="w3-button w3-block w3-black tablink">Artivism</a>
     </div>
-	<div class="w3-col col-5">
-      <a  href="javascript:void(0)" onclick="openArticle(event, 'Participation');" class="w3-button w3-block w3-black tablink">Participation</a>
+	<div class="w3-col col-6">
+      <a  href="#articleTop" onclick="openArticle(event, 'Participation');" class="w3-button w3-block w3-black tablink">Participation</a>
+    </div>
+	<div class="w3-col col-6">
+      <a  href="#" class="w3-button w3-block w3-black tablink">Prototype Concept</a>
     </div>
   </div>
 </div>
@@ -52,11 +91,12 @@ body, html {
     <span class="w3-tag">Lauren Chun, Jordan Hoekwater, Sabrina Kwong, Derrick Saenz</span>
   </div>
   <div class="w3-display-middle w3-center">
-    <span class="w3-text-white" style="font-size:50px">The Repurposing of Technology in a Greater Context
+    <span class="w3-text-white" style="font-size:45px">Repurposing the Use of Technology in a Greater Context
    </span>
   </div>
   <div class="w3-display-bottomright w3-center w3-padding-large">
     <span class="w3-text-white">Team Carbs</span>
+	
   </div>
 </header>
 
@@ -68,54 +108,76 @@ body, html {
 
 	
 <!-- Menu Container -->
-<div class="w3-container" id="menu">
-  
-
+<div class="w3-container" id="articleTop">
 
     <div id="Abstract" class="w3-container article w3-content" style="max-width:700px;">
 		<h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">ABSRACT</span></h5>
-		<p>In the face of the usage of technology and many roles that it plays in our world, its importance can be key in face of social good in the context of artworks. For instance, the art piece, “Transborder Immigrant Tool”, by Electronic Disturbance Theater and b.a.n.g. Lab, incorporated Best Buy mobile phones with original interface design that included poems, compasses, maps in Spanish and the purpose to help those crossing the border. However, such an action would be seen as hacking a system, a commentary towards politics and social issued, a rebellious act to disrupt the regulation of immigration. Yet when repurposing such technologies, it hopes to create social change through activism.</p>
-		<p>The power of technology and the people are seen in many activism and hacktivism that incorporates tactical media and the world wide web.  People can now engage in digital civil disobedience to be able to not only raise awareness but show their support for causes unknown or far from them. With a deeper understanding of how we should take that power back would be seen in this paper. As well as the question to whether we have we taken the power back in the past and how much more we can and could take though our usages of technology.</p>
-		<p>This paper will further examine existing usages of technology and art pieces that involve mobile locative media, hacktivism (a method of engagement that uses hacking to break, reformat, and re-engineer data and systems as a creative rather than merely destructive strategy), the use of affordable software, hardware and the internet in addressing issues and making change.It will also cover reason to recycle or work with existing technology. Old or discarded technology can also be repurposed as e-waste and disposed of by incineration, releasing toxins when burnt. Hence, technology does not have to be strictly electronic in nature, it can also be the repurposing of tools used for making polymers to clean oil spills. Through the use of digital and mixed media anyone can make change happen. One spark can light the fire that affects the world. </p>
-		<br>
-		<p><strong>Authors:</strong> Lauren Chun, Jordan Hoekwater, Sabrina Kwong, Derrick Saenz</p>
+		<p>&emsp;&emsp;In the face of the usage of technology and many roles that it plays in our world, its importance can be key in face of social good in the context of artworks. For instance, the art piece, “Transborder Immigrant Tool”, by Electronic Disturbance Theater and b.a.n.g. Lab, incorporated Best Buy mobile phones with original interface design that included poems, compasses, maps in Spanish and the purpose to help those crossing the border. However, such an action would be seen as hacking a system, a commentary towards politics and social issued, a rebellious act to disrupt the regulation of immigration. Yet when repurposing such technologies, it hopes to create social change through activism.</p>
+		<p>&emsp;&emsp;The power of technology and the people are seen in many activism and hacktivism that incorporates tactical media and the world wide web.  People can now engage in digital civil disobedience to be able to not only raise awareness but show their support for causes unknown or far from them. With a deeper understanding of how we should take that power back would be seen in this paper. As well as the question to whether we have we taken the power back in the past and how much more we can and could take though our usages of technology.</p>
+		<p>&emsp;&emsp;This paper will further examine existing usages of technology and art pieces that involve mobile locative media, hacktivism (a method of engagement that uses hacking to break, reformat, and re-engineer data and systems as a creative rather than merely destructive strategy<span class="subscript"><a href="#abstractLink1">1</a></span>), the use of affordable software, hardware and the internet in addressing issues and making change.It will also cover reason to recycle or work with existing technology. Old or discarded technology can also be repurposed as e-waste and disposed of by incineration, releasing toxins when burnt. Hence, technology does not have to be strictly electronic in nature, it can also be the repurposing of tools used for making polymers to clean oil spills. Through the use of digital and mixed media anyone can make change happen. One spark can light the fire that affects the world. </p>
+		<hr>
+		<div class="subscriptLinks">
+			<p id="abstractLink1">&emsp;&emsp;<span class="subscript"><a href="#abstractLink1">1</a></span>Christine Paul, Digital Art, Third Edition, p.207</p>
+		</div>
+		
     </div>
 	<div id="Recontextualizing" class="w3-container article w3-content" style="max-width:700px;">
 		<h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">RECONTEXTUALIZING OUR USES OF TECHNOLOGY</span></h5>
-		<p>The average user of a laptop or smartphone uses the computer to do a few simple tasks: browse the internet, watch videos, and maybe use some programs (online or offline) to make some documents. Some savvy users might also use their computers for specialized purposes, like running engineering software or creating art, but most people wouldn’t use an Apple device to make nuclear weapons. According to Apple’s “Licenced Application End User Licence Agreement”, you cannot use Apple’s licenced software for “the development, design, manufacture, or production of nuclear, missile, or chemical or biological weapons”. While the hope is that no one would use anything to make such harmful devices, why is it something that needs to be explained, despite it already being illegal in an encompassing law form like United States law. While the problem isn’t with the statement here itself, the problem lies with the necessity for this kind of legal binding for anything that we use in the modern age of information.</p>
-		<p>Recently, the state of California has been going through a series of large wildfires that have been taking people’s lives and livelihoods. Because of this fear, PG&E decided that the best course of action would be to shut down power in select areas to limit the risk of wildfires. As these power outages commenced, nearly a million people start to lose power for a few days at a time, and the companies that rely on power are also limited in what they can do. One such limitation for mobile carriers operating in California is the shutting off of cell service to the regions affected by the power outages. Carriers like AT&T and T-Mobile have reported about cell tower outages in shut off areas, leaving many of their customers without reception. This leaves many customers without service and therefore essentially useless phones. </p>
-		<p>This is a terrible incident in itself, but how would anyone be able to use a “useless” device outside of its intended purpose, once that intended purpose becomes obsolete or unavailable? Ricardo Dominguez, an associate professor at UC San Diego and the lead of Calit2's B.A.N.G.lab, decided to use old phones equipped with GPS as a “Transborder Immigrant Tool”. This tool is designed to guide immigrants along the desolate “Devil’s Highway” across the US-Mexico border. It is also being fitted to help with the navigation of the Mediteranian Sea and Atlantic Ocean by the Spanish and Moroccan governments. The interesting aspect to this story is that they use old $30 Motorola cell-phones to guide these people along the path they need to go through. These phones have outlived their intended lifespan and are continuing their usefulness way past their time of obsolescence.</p>
-		<p>But this “obsolescence” is actively being programmed into the development of many phones and devices nowadays. Additionally it is making it even more difficult to use these phones outside of their original purpose. The practice of designing a product to fail after a certain amount of time or after a better alternative is released is called “Planned Obsolescence”. Newer smartphones often come with promises to keep it updated for two to five years, depending on the manufacturer. However, once a new product comes out within the next half-year or year, suddenly the product you “own” feels slower or the complanable offences start becoming more prevalent. This pushes you to lust after that new smartphone and then eventually caving in and buying it. But you never really own the phone, because the software on it belongs to someone else, you are just licenced it. So ethically, it is up to the other party to decide whether you are allowed to use the phone you paid for because they still own all the rights to it. You are essentially borrowing your smart device.</p>
-		<p>Going back to Apple’s “Licenced Application End User Licence Agreement”, take a notice to the name of it. “Licence” is in the title of this article twice, essentially one more time than it needs to be clear to the common folk. However, this can just serve as a reminder that you don’t own your iPhone, or your copy of iTunes or any of the songs on Apple Music. You don’t own them, just like how you don’t own copies of Microsoft Office or Windows 10, or Adobe Photoshop or whatever other professional programs you have installed on your computer.</p>
-		<p>How do you get out of this though? Apple’s licence agreement says that you can’t use your software in any way that is illegal per the US law, like making nukes, so what is the alternative? Ricardo Dominguez had the right idea in repurposing the old cell-phones for something greater than their “obsolescent” status: use the technology you have to perform an act you would like to see better the world, like an act of “civil disobedience”.</p>
-		<br>
+		<p>&emsp;&emsp;The average user of a laptop or smartphone uses the computer to do a few simple tasks: browse the internet, watch videos, and maybe use some programs (online or offline) to make some documents. Some savvy users might also use their computers for specialized purposes, like running engineering software or creating art, but most people wouldn’t use an Apple device to make nuclear weapons. According to Apple’s “Licenced Application End User Licence Agreement”, you cannot use Apple’s licenced software for “the development, design, manufacture, or production of nuclear, missile, or chemical or biological weapons”<span class="subscript"><a href="#abstractLink2">2</a></span>. While the hope is that no one would use anything to make such harmful devices, why is it something that needs to be explained, despite it already being illegal in an encompassing law form like United States law. While the problem isn’t with the statement here itself, the problem lies with the necessity for this kind of legal binding for anything that we use in the modern age of information.</p>
+		<p>&emsp;&emsp;Recently, the state of California has been going through a series of large wildfires that have been taking people’s lives and livelihoods. Because of this fear, PG&E decided that the best course of action would be to shut down power in select areas to limit the risk of wildfires. As these power outages commenced, nearly a million people start to lose power for a few days at a time, and the companies that rely on power are also limited in what they can do. One such limitation for mobile carriers operating in California is the shutting off of cell service to the regions affected by the power outages. Carriers like AT&T and T-Mobile have reported about cell tower outages in shut off areas, leaving many of their customers without reception<span class="subscript"><a href="#abstractLink3">3</a></span>. This leaves many customers without service and therefore essentially useless phones. </p>
+		<p>&emsp;&emsp;This is a terrible incident in itself, but how would anyone be able to use a “useless” device outside of its intended purpose, once that intended purpose becomes obsolete or unavailable? Ricardo Dominguez, an associate professor at UC San Diego and the lead of Calit2's B.A.N.G.lab, decided to use old phones equipped with GPS as a “Transborder Immigrant Tool”. This tool is designed to guide immigrants along the desolate “Devil’s Highway” across the US-Mexico border. It is also being fitted to help with the navigation of the Mediteranian Sea and Atlantic Ocean by the Spanish and Moroccan governments. The interesting aspect to this story is that they use old $30 Motorola cell-phones to guide these people along the path they need to go through<span class="subscript"><a href="#abstractLink4">4</a></span>. These phones have outlived their intended lifespan and are continuing their usefulness way past their time of obsolescence.</p>
+		<p>&emsp;&emsp;But this “obsolescence” is actively being programmed into the development of many phones and devices nowadays. Additionally it is making it even more difficult to use these phones outside of their original purpose. The practice of designing a product to fail after a certain amount of time or after a better alternative is released is called “Planned Obsolescence”. Newer smartphones often come with promises to keep it updated for two to five years, depending on the manufacturer. However, once a new product comes out within the next half-year or year, suddenly the product you “own” feels slower or the complanable offences start becoming more prevalent. This pushes you to lust after that new smartphone and then eventually caving in and buying it. But you never really own the phone, because the software on it belongs to someone else, you are just licenced it. So ethically, it is up to the other party to decide whether you are allowed to use the phone you paid for because they still own all the rights to it. You are essentially borrowing your smart device.</p>
+		<p>&emsp;&emsp;Going back to Apple’s “Licenced Application End User Licence Agreement”, take a notice to the name of it. “Licence” is in the title of this article twice, essentially one more time than it needs to be clear to the common folk. However, this can just serve as a reminder that you don’t own your iPhone, or your copy of iTunes or any of the songs on Apple Music. You don’t own them, just like how you don’t own copies of Microsoft Office or Windows 10, or Adobe Photoshop or whatever other professional programs you have installed on your computer.</p>
+		<p>&emsp;&emsp;How do you get out of this though? Apple’s licence agreement says that you can’t use your software in any way that is illegal per the US law, like making nukes, so what is the alternative? Ricardo Dominguez had the right idea in repurposing the old cell-phones for something greater than their “obsolescent” status: use the technology you have to perform an act you would like to see better the world, like an act of “civil disobedience”.</p>
+		<hr>
+		<div class="subscriptLinks">
+			<p id="abstractLink2">&emsp;&emsp;<span class="subscript"><a href="#abstractLink2">2</a></span>Apple, “Licenced Application End User Licence Agreement” Section G.</p>
+			<p id="abstractLink3">&emsp;&emsp;<span class="subscript"><a href="#abstractLink3">3</a></span>Marie C Baca. “Northern California Blackouts May Mean Mobile Outages.” The Washington Post. WP Company, October 10, 2019.</p>
+			<p id="abstractLink4">&emsp;&emsp;<span class="subscript"><a href="#abstractLink4">4</a></span>Tiffany Fox, “Using Mobile Phone Technology to Transcend Borders, Dimensions”, Qualcomm Institute, June 4, 2009</p>
+		</div>
     </div>
     <div id="Disobedience" class="w3-container article w3-content" style="max-width:700px;">
 		<h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">DIGITAL CIVIL DISOBEDIENCE</span></h5>
-		<p>When it comes to the idea of repurposing technology, many implications can associate with disobedience. The most adverse, in the argument of art, fall from the impact this action has on social change. While most technology has implied intentions, developers knowingly understand the adaptability of the hardware within, but mediate it for the commercial tech specifications. Most people carry around a full-fledged computer in their pockets and only utilize a small percentage of its capabilities, why is that? Why is it the norm to use technology for its primary intentions? Why no try to take it apart and understand how it works? Unfortunately, it isn’t as easy to take something apart and try to understand it anymore.</p>
-		<p>The obscurity of our current technology comes partially from the iterative design process. As we’ve built, redesigned, and repurposed ideas, they’ve moved farther and farther from their simple roots. Take the modern car, for example, and compare it to the cars of the 1880s. We use incredible metal composites that are designed to buckle, absorbing the impact of a car crash in ways that never would have been possible with the original open-air designs. We used to crank the engine to start it. Now we just hit a key.</p>
-		<p>The iterative design process isn’t bad. We redesigned the steering wheel holder so that when hit in a head-on collision, it doesn’t pierce your chest. We made a frame around the car that was load-bearing, so that when a vehicle rolls, it doesn’t crumble and crush the person inside. The design process has saved tons of lives. It also complicates the devices that we use.</p>
-		<p>What happens, then, when humans no longer have to be part of the design process? With new developments in AI, some machines can teach themselves to complete tasks. Google created AlphaZero AI, a tool that taught itself how to play chess and shogi without any human input. In 50 years, it doesn’t seem impossible that computers would be able to teach themselves how to design a better airplane or build a faster processor, too.</p>
-		<p>At that point, the external motivation for understanding the technology we use will be completely obsolete. The only possible reason humans will have for pursuing the pursuit of technical knowledge is their enjoyment — understanding some questions about how the universe works or whatever else piques their interest.</p>
-		<p>Why is this a cause for concern? Well, as technology advances, people’s place within creation will slowly decrease — this why the motivation for technical knowledge is essential. Understanding how technology works enables more action and drive to create through technology, in other words, encouraging the repurposing of tech.</p>
-		<p>What does this mean in the sense of an artistic practice? Shedding light on the versatility of the technology people use in their everyday lives, allows room for exploration for change. Take Topher White, the founder of San Francisco’s non-profit organization, Rainforest Connection, as an example. This engineer has developed a way to cut down on illegal deforestation and logging only by repurposing old cell phones equipped with microphones and solar panels, to listen for specific sounds (chainsaws, for example) to then alert authorities via messaging. This adaptive approach enables a single phone to detect sound irregularities ranging anywhere from a mile away. Further developments is repurposing tech can bring awareness to society as well as execute substantial change within the environment.</p>
-		<p>Topher White's actively growing design process is one of many examples where the boundaries of commercial tech can influence positive social change, something where everyone has a part. The world is full of knowledge, but it tends to be mediated by the limitations brought forth from corporate developers and the lack of motivation to defy those limitations. Hence, opening up the opportunity to evoke change through activism.</p>
-		<br>
+		<p>&emsp;&emsp;When it comes to the idea of repurposing technology, many implications can associate with disobedience. The most adverse, in the argument of art, fall from the impact this action has on social change. While most technology has implied intentions, developers knowingly understand the adaptability of the hardware within, but mediate it for the commercial tech specifications. Most people carry around a full-fledged computer in their pockets and only utilize a small percentage of its capabilities, why is that? Why is it the norm to use technology for its primary intentions? Why no try to take it apart and understand how it works? Unfortunately, it isn’t as easy to take something apart and try to understand it anymore.</p>
+		<p>&emsp;&emsp;The obscurity of our current technology comes partially from the iterative design process. As we’ve built, redesigned, and repurposed ideas, they’ve moved farther and farther from their simple roots. Take the modern car, for example, and compare it to the cars of the 1880s. We use incredible metal composites that are designed to buckle, absorbing the impact of a car crash in ways that never would have been possible with the original open-air designs. We used to crank the engine to start it. Now we just hit a key.</p>
+		<p>&emsp;&emsp;The iterative design process isn’t bad. We redesigned the steering wheel holder so that when hit in a head-on collision, it doesn’t pierce your chest. We made a frame around the car that was load-bearing, so that when a vehicle rolls, it doesn’t crumble and crush the person inside. The design process has saved tons of lives. It also complicates the devices that we use.</p>
+		<p>&emsp;&emsp;What happens, then, when humans no longer have to be part of the design process? With new developments in AI, some machines can teach themselves to complete tasks. Google created AlphaZero AI, a tool that taught itself how to play chess and shogi without any human input. In 50 years, it doesn’t seem impossible that computers would be able to teach themselves how to design a better airplane or build a faster processor, too.</p>
+		<p>&emsp;&emsp;At that point, the external motivation for understanding the technology we use will be completely obsolete. The only possible reason humans will have for pursuing the pursuit of technical knowledge is their enjoyment — understanding some questions about how the universe works or whatever else piques their interest.</p>
+		<p>&emsp;&emsp;Why is this a cause for concern? Well, as technology advances, people’s place within creation will slowly decrease — this why the motivation for technical knowledge is essential. Understanding how technology works enables more action and drive to create through technology, in other words, encouraging the repurposing of tech.</p>
+		<p>&emsp;&emsp;What does this mean in the sense of an artistic practice? Shedding light on the versatility of the technology people use in their everyday lives, allows room for exploration for change. Take Topher White, the founder of San Francisco’s non-profit organization, Rainforest Connection, as an example. This engineer has developed a way to cut down on illegal deforestation and logging only by repurposing old cell phones equipped with microphones and solar panels, to listen for specific sounds (chainsaws, for example) to then alert authorities via messaging. This adaptive approach enables a single phone to detect sound irregularities ranging anywhere from a mile away<span class="subscript"><a href="#abstractLink5">5</a></span>. Further developments is repurposing tech can bring awareness to society as well as execute substantial change within the environment.</p>
+		<p>&emsp;&emsp;Topher White's actively growing design process is one of many examples where the boundaries of commercial tech can influence positive social change, something where everyone has a part. The world is full of knowledge, but it tends to be mediated by the limitations brought forth from corporate developers and the lack of motivation to defy those limitations. Hence, opening up the opportunity to evoke change through activism.</p>
+		<hr>
+		<div class="subscriptLinks">
+			<p id="abstractLink5">&emsp;&emsp;<span class="subscript"><a href="#abstractLink5">5</a></span>Nunez, Christina. “Your Old Cell Phone Can Help Save the Rain Forest.” National Geographic, 15 Jun. 2017, <p>https://www.nationalgeographic.com/news/2017/06/topher-white-engineer-rainforests-explorer-festival/#close</p></p>
+		</div>
     </div> 
 	<div id="Artivism" class="w3-container article w3-content" style="max-width:700px;">
 		<h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">Artivism</span></h5>
-		<p>Every so often can we take a stance on an important issue, but what are some ways that we can act on it and bring forth such thoughts onto others? Amongst the raths of all many devices and obligations to society that seek our attention exists art. Art may be beautiful and endearing to its viewers, but it can also create a thunderstorm and shake the ground beneath oneself. One art piece that could be seen as an example would some works by AI Weiwei. </p>
-		<p>A well-known Chinese artist and activist and now has become China’s most noted political dissidents and became an online activist after his response to the Sichuan earthquake in 2008 that sparked his networked social movement on his blog  (‘This is my question: Where are those lives?’ with a team that found 5,000 names and was made into a video with recordings of people reading the names of the lost children .  The Chinese government in response shut the blog down and the investigation of a social outreach to the victims of a horrible disaster and poorly-built schools and also made a sculptural pieces called” remeberings” to commemorate the children lost visually as 900 backbacks on a wall spelling out: “She lived the seven on her life happily”.  This choreography of assembly with new media has sparked a movement for exposure and justice. Hence, empathy and awareness are brought to attention. In the context of technology, more art pieces and acts exist to question our contribution, our every consumption and attention.</p>
-		<p>As work and content can be reinserted into a new context, art and activism have a long history. A particular look into hacktivism and tactical media could better link technology roles in context to serve a greater purpose. As activist has used digital technologies as 'tactical media to comment on the very medium that they are using, some go even further to re-engineer and re-purpose technology for activism. </p>
-		<p>For instance, Natalie Keremijenko and the Bureau of Inverse technology created the project Sniffer (2002) that consisted of robot dogs available on the toy market in order be environmental detector that can store and report information. The File Room (1994)  produced originally by Randolph Street Gallery is an open archive where cases of censorship is submitted by the public. Such pieces are made to bring back the power of information to the users hand. In looking at hacktivism, it can be harmless interventions but operate on the border of being legal to create a disturbance and have become media artworks. As mentioned previously in this paper, The Electronic Disturbance Theatre has staged several sit-in in support of the Zapatista rebels in Chiapas, Mexico through the website Floadnet in order disrupt the servers that counter physical blockins of a building. Such projects exist between art and activism due the growing issue and importance of such topics where it cannot be ignored in the art world. When people come together to create change, art is the way to go, especially with a device that is already in our pockets.</p>
-		<br>
+		<p>&emsp;&emsp;Every so often can we take a stance on an important issue, but what are some ways that we can act on it and bring forth such thoughts onto others? Amongst the raths of all many devices and obligations to society that seek our attention exists art. Art may be beautiful and endearing to its viewers, but it can also create a thunderstorm and shake the ground beneath oneself. One art piece that could be seen as an example would some works by AI Weiwei. </p>
+		<p>&emsp;&emsp;A well-known Chinese artist and activist and now has become China’s most noted political dissidents and became an online activist after his response to the Sichuan earthquake in 2008 that sparked his networked social movement on his blog  (‘This is my question: Where are those lives?’ with a team that found 5,000 names and was made into a video with recordings of people reading the names of the lost children<span class="subscript"><a href="#abstractLink6">6</a></span>.  The Chinese government in response shut the blog down and the investigation of a social outreach to the victims of a horrible disaster and poorly-built schools and also made a sculptural pieces called” remeberings” to commemorate the children lost visually as 900 backbacks on a wall spelling out: “She lived the seven on her life happily”.  This choreography of assembly<span class="subscript"><a href="#abstractLink7">7</a></span> with new media has sparked a movement for exposure and justice. Hence, empathy and awareness are brought to attention. In the context of technology, more art pieces and acts exist to question our contribution, our every consumption and attention.</p>
+		<p>&emsp;&emsp;As work and content can be reinserted into a new context, art and activism have a long history. A particular look into hacktivism and tactical media could better link technology roles in context to serve a greater purpose. As activist has used digital technologies as 'tactical media to comment on the very medium that they are using, some go even further to re-engineer and re-purpose technology for activism<span class="subscript"><a href="#abstractLink8">8</a></span>. </p>
+		<p>&emsp;&emsp;For instance, Natalie Keremijenko and the Bureau of Inverse technology created the project Sniffer (2002) that consisted of robot dogs available on the toy market in order be environmental detector that can store and report information. The File Room (1994)  produced originally by Randolph Street Gallery is an open archive where cases of censorship is submitted by the public. Such pieces are made to bring back the power of information to the users hand. In looking at hacktivism, it can be harmless interventions but operate on the border of being legal to create a disturbance and have become media artworks. As mentioned previously in this paper, The Electronic Disturbance Theatre has staged several sit-in in support of the Zapatista rebels in Chiapas, Mexico through the website Floadnet in order disrupt the servers that counter physical blockins of a building<span class="subscript"><a href="#abstractLink9">9</a></span>. Such projects exist between art and activism due the growing issue and importance of such topics where it cannot be ignored in the art world. When people come together to create change, art is the way to go, especially with a device that is already in our pockets.</p>
+		<hr>
+		<div class="subscriptLinks">
+			<p id="abstractLink6">&emsp;&emsp;<span class="subscript"><a href="#abstractLink6">6</a></span>Ghyli Kirshner. Ai Weiwei and the art of Activism. diggitmagazine. May 14, 2019.</p>
+			<p id="abstractLink7">&emsp;&emsp;<span class="subscript"><a href="#abstractLink7">7</a></span>A term that Gerbaudo (2012) describes as a process of ‘symbolic construction of public space, which revolves around an emotional ‘scene-setting’ and ‘scripting’ of participants’ physical assembling.’</p>
+			<p id="abstractLink8">&emsp;&emsp;<span class="subscript"><a href="#abstractLink8">8</a></span>Christine Paul, Digital Art, Third Edition, p.205</p>
+			<p id="abstractLink9">&emsp;&emsp;<span class="subscript"><a href="#abstractLink9">9</a></span>Christine Paul, Digital Art, Third Edition, p.207</p>
+		</div>
     </div>
 	<div id="Participation" class="w3-container article w3-content" style="max-width:700px;">
 		<h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">WHAT YOU CAN DO TO PARTICIPATE</span></h5>
-		<p>For the typical budding global citizen there are many things we want to do but cannot do easily by ourselves. As Picasso said, “bad artists copy, good artists steal,” we can steal the ideas of the previous activist and follow in their footsteps. Taking from previous example by Ricardo Dominguez and Topher White, we can make changes to help our fellow people and earth. Despite the strives that they have taken it all starts with you. The first step to make change is to ask yourself, “what do you want to change?” is it a local problem people are facing, or something that affects us all. Second after you establish a cause you want to do something about think of ideas reasonable ways to change that problem. If it is something like climate change, breaking down what causes climate change would be how you find what one single aspect you could affect would help. White picked to help stop deforestation which ultimately stops climate change. For Dominguez, he took on the problem of immigration, thinking about what makes immigration difficult and how can he help. Breaking down big problems to more reasonable bite size pieces and finding the piece that you can alter can help you move mountains.</p>
-		<p>No cause has to be too big or too small, Ari Melenciano is a great example of artivism to help make the act of taking photos more about enjoy yourself than to find the perfect selfie to post on social media. Melenciano tackled this problem with her creation of the Ojo Oro, a digital camera that mimics the effects of a film camera. The Ojo Oro does not have a screen to limit the obsession of having to get the perfect photo. Ojo Oro was created using common electronics like spare LEDs as well as a raspberry pi. Melenciano took the obsession of social media breaking it down to step and hacked one step in the chain required to use social media.  Social change might seem daunting, but it is possible. Melenciano also founded Afrotectopia, a conference aimed at fostering a “collaborative community of people currently working at the intersection of art, design, technology, activism, and blackness”. As the average person we do not have to become a founder of a conference, but we can attend them and support others who endeavor to bring people together.</p>
-		<p>Social media has become a part to communicate with others across the globe. Activist   groups use this technology to house and spread their message, groups like Color of Change, Black Lives Matter, and Dream Defenders are just a few to name. Each movement is spread with hashtags on social media but it is also used to connect and organize in person meetings. In an article by the Huffington Post, Moeti explains the power of the internet, Hindustan Unilever thermometer factory was leaking mercury into the local water system, through the “release of a parody music video which went viral, (and) receiving almost four million views and even a tweet from Nicki Minaj” the company compensated the affected people. This was one example where change was made but there are some changes that are harder alone. The more people collaborate the movement can flourish. What can you post to ignite change?</p>
-		<br>
+		<p>&emsp;&emsp;For the typical budding global citizen there are many things we want to do but cannot do easily by ourselves. As Picasso said, “bad artists copy, good artists steal,” we can steal the ideas of the previous activist and follow in their footsteps. Taking from previous example by Ricardo Dominguez<span class="subscript"><a href="#abstractLink10">10</a></span> and Topher White<span class="subscript"><a href="#abstractLink11">11</a></span>, we can make changes to help our fellow people and earth. Despite the strives that they have taken it all starts with you. The first step to make change is to ask yourself, “what do you want to change?” is it a local problem people are facing, or something that affects us all. Second after you establish a cause you want to do something about think of ideas reasonable ways to change that problem. If it is something like climate change, breaking down what causes climate change would be how you find what one single aspect you could affect would help. White picked to help stop deforestation which ultimately stops climate change. For Dominguez, he took on the problem of immigration, thinking about what makes immigration difficult and how can he help. Breaking down big problems to more reasonable bite size pieces and finding the piece that you can alter can help you move mountains.</p>
+		<p>&emsp;&emsp;No cause has to be too big or too small, Ari Melenciano is a great example of artivism to help make the act of taking photos more about enjoy yourself than to find the perfect selfie to post on social media. Melenciano tackled this problem with her creation of the Ojo Oro, a digital camera that mimics the effects of a film camera. The Ojo Oro does not have a screen to limit the obsession of having to get the perfect photo<span class="subscript"><a href="#abstractLink12">12</a></span>. Ojo Oro was created using common electronics like spare LEDs as well as a raspberry pi. Melenciano took the obsession of social media breaking it down to step and hacked one step in the chain required to use social media.  Social change might seem daunting, but it is possible. Melenciano also founded Afrotectopia, a conference aimed at fostering a “collaborative community of people currently working at the intersection of art, design, technology, activism, and blackness”<span class="subscript"><a href="#abstractLink13">13</a></span>. As the average person we do not have to become a founder of a conference, but we can attend them and support others who endeavor to bring people together.</p>
+		<p>&emsp;&emsp;Social media has become a part to communicate with others across the globe. Activist   groups use this technology to house and spread their message, groups like Color of Change, Black Lives Matter, and Dream Defenders are just a few to name. Each movement is spread with hashtags on social media but it is also used to connect and organize in person meetings. In an article by the Huffington Post, Moeti explains the power of the internet, Hindustan Unilever thermometer factory was leaking mercury into the local water system, through the “release of a parody music video which went viral, (and) receiving almost four million views and even a tweet from Nicki Minaj” the company compensated the affected people<span class="subscript"><a href="#abstractLink14">14</a></span>. This was one example where change was made but there are some changes that are harder alone. The more people collaborate the movement can flourish. What can you post to ignite change?</p>
+		<hr>
+		<div class="subscriptLinks">
+			<p id="abstractLink10">&emsp;&emsp;<span class="subscript"><a href="#abstractLink10">10</a></span>Fox, Using Mobile Cell Phones</p>
+			<p id="abstractLink11">&emsp;&emsp;<span class="subscript"><a href="#abstractLink11">11</a></span>Nunez, “Your Old Cell Phone”</p>
+			<p id="abstractLink12">&emsp;&emsp;<span class="subscript"><a href="#abstractLink12">12</a></span>Dara Oke, Ari Melenciano Is Thriving In The Space Where Art, Technology, and Activism Meet (2019)</p>
+			<p id="abstractLink13">&emsp;&emsp;<span class="subscript"><a href="#abstractLink13">13</a></span>Ibid.</p>
+			<p id="abstractLink14">&emsp;&emsp;<span class="subscript"><a href="#abstractLink14">14</a></span>Koketso Moeti, Digital Activism Comes Of Age: Technology Is Creating New Space For Marginalized Voices (2017)</p>
+		</div>
     </div>
 </div>
 
@@ -145,6 +207,9 @@ function openArticle(evt, articleName) {
 }
 document.getElementById("myLink").click();
 </script>
+<script src="js/scripts.js"></script>
+
 
 </body>
 </html>
+
