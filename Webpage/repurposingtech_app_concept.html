@@ -6,7 +6,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
   <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
-<!--<link rel="stylesheet" href="./style.css">-->
+  <link rel="icon" href="img/logo.png">
+<!--<link rel="stylesheet" href="./style.css"> -->
 <style>
 /***************************
 COLORS
@@ -300,8 +301,8 @@ p {
 			  <h1 class="title">Internet Buddy<span class="disclaimer">(App Concept)</span></h1>
 			  <p class="subtext">Giving you the knowledge to understand and maintain the data on your device. </p>
 			  <span>
-			  	<a href="javascript:void"><img src="img/appstore.svg" class="appstore" style="margin-right: 20px"></a>
-				<a href="javascript:void"><img src="img/googleplay.svg" class="appstore"></a>
+			  	<a href="javascript:void" onClick="appAlert()"><img src="img/appstore.svg" class="appstore" style="margin-right: 20px"></a>
+				<a href="javascript:void" onClick="appAlert()"><img src="img/googleplay.svg" class="appstore"></a>
 			  </span>
 		  </div>
 		</span>
@@ -343,7 +344,7 @@ p {
       <span>
 		<strong><p class="icon_text">What does this mean for you?</p></strong>
 		<br>
-		<p class="icon_text">While the app does use the user's data, the user is able to define the applications range of accessibility to their data. This allows you to be in control of your involvement within Data Mediation. The goal to is invite the user to learn and become more aware of how their phone sends data to the applications installed on the device.</p>
+		<p class="icon_text">While the app does use the user's data, the user is able to define the applications range of accessibility to their data. This allows you to be in control of your involvement within Data Mediation. The goal is to invite the user to learn and become more aware of how their phone sends data to the other applications installed on the device.</p>
 	  </span>
 	  <span>	
 		<img src="img/selection.png" class="phone">
@@ -356,7 +357,7 @@ p {
       <span>
 		<strong><p class="icon_text">Controlling your Data Score</p></strong>
 		<br>
-		<p class="icon_text">The user gets notified every time the application detects data transfers to other applications. Each notification will provide a small message informing you of the information sent and the data's context within the requested application. Upon interacting with the notification, the app provides a detailed description of the data sent and a list of suggestions to help prevent future involvment. The app does also provide the user with insight of how the suggestion can alter their overall user experience with sed application. The more the user interacts with the recommendations, the lower their Data Score becomes, giving the user a voluntary incentive to mediate their data.</p>
+		<p class="icon_text">The user gets notified every time the application detects data transfers to other applications. Each notification will provide a small message informing you of the information sent and the data's context within the requested application. Upon interacting with the notification, the app provides a detailed description of the data sent and a list of suggestions to help prevent future involvement. The app does also provide the user with insight of how the suggestion can alter their overall user experience with sed application. The more the user interacts with the recommendations, the lower their Data Score becomes, giving the user a voluntary incentive to mediate their data.</p>
 	  </span>
     </section>
   </div>
@@ -364,6 +365,9 @@ p {
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
 <script src='https://www.thepetedesign.com/demos/jquery.onepage-scroll.js'></script>
 <script>
+	function appAlert() {
+		alert("This app is a concept. Therefore the Physical app is non-existent.");
+	}
 	(function ( $ ) {
 	'use strict';
    $.fn.heightFull = function() {
