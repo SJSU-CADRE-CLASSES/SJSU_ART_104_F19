@@ -1,7 +1,7 @@
 **SJSU ART 104 Fall 2019**
 ======================
 Department of Art and Art History
-Art 104, Fall 2019
+Art 104, Fall 2019 Hi  2020
 
 ![gif](http://i.imgur.com/zdzDxsA.gif)
 
